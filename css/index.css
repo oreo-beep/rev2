@@ -1,0 +1,73 @@
+.sect{
+    width: 100%;
+    height: 500px;
+    padding-top: 200px;
+    box-sizing: border-box;
+    background-image: url(../img/simp.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.tituname{
+    font-size: 50px;
+    margin: 0px 0px 10px 200px;
+    color: white;
+    
+}
+.correo{
+    display: block;
+    margin: 10px 0px 0px 180px;
+    font-size: 25px;
+    color: white;
+}
+.caja{
+   
+    font-size: 10px;
+    
+    width: 28em;
+    height: 46em;
+    background-color:;
+    margin: 0em 0em 0em 6em;
+    margin-top: 1em;
+    
+    position:relative;
+    float: left;
+} 
+.txt h1{
+    
+    font-size: 25px;
+    font-family: monospace;
+    color: white;
+    position: absolute;
+    left: 50px;
+    top: 200px;
+}
+.imagen{
+    
+    font-size: 10px;
+    
+    width: 28em;
+    height: 46em;
+    margin: auto;
+    border: 2.5em;
+    border-color: black;
+}
+.margen{
+    
+    width: 24em;
+    height: 43em;
+    background-color: ;
+    position: absolute;
+    bottom: 1.3em;
+    left: 1.7em;
+    
+    border: 0.3em solid white;
+}
+.leyenda{
+    float: right;
+    margin-right: 8em;
+}
+.leyenda h1{
+ text-align: center;
+ margin-top: 5em;
+}
